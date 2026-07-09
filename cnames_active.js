@@ -1745,6 +1745,7 @@ var cnames_active = {
   "kim": "khareemnurulla.github.io/kim",
   "kimera": "ultirequiem.github.io/kimera",
   "kindavishal": "kindavishal.netlify.app",
+  "kindness-journal": "kindness-journal.pages.dev",
   "kiranremmarasu": "kiranremmarasu.github.io/kiranremmarasu",
   "kiss": "sisyphuszheng.github.io/kiss",
   "kite": "kite-js.github.io/kite",
